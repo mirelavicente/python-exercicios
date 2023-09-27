@@ -1,5 +1,4 @@
 # python-exercicios
-<h2>Lista de Exercícios de algoritmos condicionais</h2>
 <table>
   <tr>
     <td>Nome: Mirela Vicente N°36</td>
